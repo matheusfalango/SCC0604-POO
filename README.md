@@ -24,3 +24,8 @@ ant clean
 ## Especificação do trabalho
 
 O pdf pode ser acessado [aqui](./Projeto-POO-2025-2.pdf).
+
+## Jogo desenvolvido
+
+A base definida foi o jogo Lady & Bug.
+
